@@ -1,0 +1,21 @@
+[submodule "auto-confignotifications-linkedin"]
+	path = auto-confignotifications-linkedin
+	url = https://github.com/luascfl/auto-confignotifications-linkedin.git
+[submodule "auto-deletealerts-linkedin"]
+	path = auto-deletealerts-linkedin
+	url = https://github.com/luascfl/auto-deletealerts-linkedin.git
+[submodule "auto-deletenotifications-linkedin"]
+	path = auto-deletenotifications-linkedin
+	url = https://github.com/luascfl/auto-deletenotifications-linkedin.git
+[submodule "auto-expandtrendingtopics-linkedin"]
+	path = auto-expandtrendingtopics-linkedin
+	url = https://github.com/luascfl/auto-expandtrendingtopics-linkedin.git
+[submodule "auto-filterjobresults-linkedin"]
+	path = auto-filterjobresults-linkedin
+	url = https://github.com/luascfl/auto-filterjobresults-linkedin.git
+[submodule "auto-ignorefakejobs-linkedin"]
+	path = auto-ignorefakejobs-linkedin
+	url = https://github.com/luascfl/auto-ignorefakejobs-linkedin.git
+[submodule "auto-savejobalerts-linkedin"]
+	path = auto-savejobalerts-linkedin
+	url = https://github.com/luascfl/auto-savejobalerts-linkedin.git
